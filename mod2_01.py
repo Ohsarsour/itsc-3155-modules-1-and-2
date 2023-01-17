@@ -1,0 +1,2 @@
+string = input("Enter a string: ") [::-1] #the slice statement [::-1] starts at the end of the string and ends at position 0 and moves with the step -1 which means one step backwards
+print(str(string))
